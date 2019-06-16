@@ -59,7 +59,7 @@ function claim($token)
 		}
 	}
 echo "Input 62 For ID and 1 For US Phone Number\n";
-echo "Enter Number: ";
+echo "Enter Number:6289678356943 ";
 $nope = trim(fgets(STDIN));
 $register = register($nope);
 if ($register == false)
